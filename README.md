@@ -15,4 +15,5 @@
 
 ### 💻 Projetos
 > **Jogo:** [Double Ping Pong](https://marinogne.github.io/double-ping-pong/)
- ##### Descrição: Jogo de Ping Pong para duas pessoas.
+
+> [Recomendador de filmes](https://marinogne.github.io/recomendador-de-filmes/)
