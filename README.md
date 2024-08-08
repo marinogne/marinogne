@@ -2,7 +2,7 @@
 
 > Me chamo Mariana Nogueira**
 
-<h3 align="center", > Sobre mim / About me🤠</h3>
+<h3 align="center", > Sobre mim🤠</h3>
 
 | Sou uma estudante do ensino médio que se apaixonou por programação, estou estudando esse mundo há menos de um ano. Meu objetivo é cursar Ciência da Computação na faculdade e me tornar uma desenvolvedora back-end.
 
