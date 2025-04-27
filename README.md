@@ -12,7 +12,7 @@ Sou estudante do Ensino Médio e estou cursando Técnico em Desenvolvimento de S
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinogne&show_icons=true&theme=date_night)
-<img height="200" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG40aWY5Ym41aGZienQ0dDdremc0NmkzMHc0eGhyOXJybDh6aTM4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgHhWRnQAeAbCENCAF/giphy.gif">
+<img height="200" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG40aWY5Ym41aGZienQ0dDdremc0NmkzMHc0eGhyOXJybDh6aTM4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgHhWRnQAeAbCENCAF/giphy.gif">
 
 <hr>
 
