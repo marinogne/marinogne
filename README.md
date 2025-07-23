@@ -1,20 +1,15 @@
 ## Oii! Eu sou a Mariana Nogueira.
 
-### 🤠 Sobre mim
-Sou estudante do Ensino Médio e estou cursando Técnico em Desenvolvimento de Sistemas no IFSP. Estou começando minha jornada na área de tecnologia.
+Sou uma estudante do Ensino Médio e estou cursando Técnico em Desenvolvimento de Sistemas no IFSP.
+
+### 💻 Linguagens | Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Icon Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icon PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinogne&show_icons=true&theme=date_night)
-<img height="200" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG40aWY5Ym41aGZienQ0dDdremc0NmkzMHc0eGhyOXJybDh6aTM4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgHhWRnQAeAbCENCAF/giphy.gif">
-
-<hr>
 
 ### 📱 Sociais
 <div> 
@@ -32,5 +27,10 @@ Sou estudante do Ensino Médio e estou cursando Técnico em Desenvolvimento de S
   <a href="https://store.epicgames.com/u/c046f8489eee42ed8e292315d83f56e5" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
 </div>
 
+<hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinognes&show_icons=true&theme=date_night)
+<img height="200" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ5NmdhZXljNWdqcWdmNzcybWN6a2g1N3V1amhjNWx6ODF0M3pjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8kZwce4cpq1pvePd39/giphy.gif">
+
+<hr>
 
