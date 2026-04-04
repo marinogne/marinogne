@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Mariana Nogueira.
 
-Sou ingressante no curso de Análise e Desenvolvimento de Sistemas na UNICAMP. Atualmente estou aprendendo Java por conta própria.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNICAMP. Atualmente estou aprendendo Java por conta própria.
 
 ### 💻 Linguagens | Tecnologias
 <div style="display: inline_block"><br>
