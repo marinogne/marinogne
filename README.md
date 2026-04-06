@@ -17,14 +17,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNICAMP. Atualmente e
   <a href="https://open.spotify.com/user/68s17q0iekrtfrd8txvr1okfo" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-### 🎮 Jogos
-<div>
-  <a href="https://steamcommunity.com/profiles/76561199098420444" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://www.xbox.com/pt-BR/play/user/WNoggneS" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
-  <a href="https://store.epicgames.com/u/c046f8489eee42ed8e292315d83f56e5" target="_blank"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></a>
-</div>
-
-<hr>
 
 <img height="200" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ5NmdhZXljNWdqcWdmNzcybWN6a2g1N3V1amhjNWx6ODF0M3pjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8kZwce4cpq1pvePd39/giphy.gif">
 
